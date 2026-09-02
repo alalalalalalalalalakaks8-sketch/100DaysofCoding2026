@@ -6,7 +6,7 @@ public class Main {
     System.out.println("Alumni smkn labuang");
 
     //coding dengan print()
-    System.out.print("prody     ");
+    System.out.print("prodi     ");
     System.out.print("informatika");
 
     //coding dengan printf()
