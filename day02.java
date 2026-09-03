@@ -10,7 +10,12 @@ public class Main {
     System.out.print("informatika");
 
     //coding dengan printf()
-    System.out.printf("tempat tinggal   ");
-    System.out.printf("campalagian");
-      }
+        String tempattinggal = "campalagian";
+        char kelas = 'B';
+        int umur = 19;
+
+        System.out.printf("tempattinggal %s ", tempattinggal);
+        System.out.printf("kelas %c ", kelas);
+        System.out.printf("umur %d tahun    ",umur);
+    }
 }
