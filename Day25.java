@@ -8,6 +8,6 @@ public class App {
 
         double C = Math.PI * A * A;
 
-        System.out.printf("Luas Persegi = %.2f\n" , C );
+        System.out.printf("Luas Lingkaran = %.2f\n" , C );
     }
 }
