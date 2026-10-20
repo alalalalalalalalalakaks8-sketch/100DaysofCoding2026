@@ -2,8 +2,7 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-
-        // for tanpa isi = loop terus
+        
         for (;;) {
             System.out.println("\n=== MENU UTAMA ===");
             System.out.println("1. Login");
